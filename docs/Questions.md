@@ -24,7 +24,7 @@ The questions are categorized into three levels: **Easy, Moderate, and Advanced*
 3. Return all the track names that have a song length longer than the average song length.  
    > Return the track name and milliseconds, ordered from longest to shortest.  
 
-
+---
 
 ## 🔥 Question Set 3 – Advanced
 1. Find how much amount each customer has spent on each artist.  
