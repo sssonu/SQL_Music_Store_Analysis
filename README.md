@@ -31,6 +31,28 @@ The database models a digital music store with the following entities:
 - pgAdmin4
 - GitHub
 
+## 📊 Analysis Questions
+The project addresses 13 key questions, grouped by difficulty:
+
+- **Set 1 – Easy:** Customer & invoice basics  
+- **Set 2 – Moderate:** Music preferences & track analysis  
+- **Set 3 – Advanced:** Customer spending patterns & top genres by country  
+
+👉 Full question list: [docs/Questions.md](docs/Questions.md)
+👉 SQL queries: [queries/](queries/)
+
+## 🔍 Key Insights
+- **Best Customer:** Jane Peacock – highest lifetime spending.  
+- **Top City:** Prague – highest total invoice sales.  
+- **Most Popular Genre:** Rock – accounts for ~30% of purchases.  
+- **Country with Highest Revenue:** USA.  
+
+## 🚀 How to Run the Project
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/SQL_Music_Store_Analysis.git
+
+
 
   
 
