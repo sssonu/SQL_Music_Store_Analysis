@@ -14,7 +14,7 @@ The questions are categorized into three levels: **Easy, Moderate, and Advanced*
 5. Who is the best customer?  
    > The customer who has spent the most money will be declared the best customer.  
 
-
+---
 
 ## ⚡ Question Set 2 – Moderate
 1. Return the email, first name, last name, & genre of all Rock music listeners.  
