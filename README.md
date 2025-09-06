@@ -51,7 +51,6 @@ The project addresses 13 key questions, grouped by difficulty:
 1. Clone the repository:
    ```
    git clone https://github.com/sssonu/SQL_Music_Store_Analysis.git
-  ```
 
 
 
