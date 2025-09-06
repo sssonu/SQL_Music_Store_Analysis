@@ -20,9 +20,10 @@ The database models a digital music store with the following entities:
 - **Invoice / InvoiceLine** – purchase transactions
 - **Track, Album, Artist, Genre** – music catalog
 
-![ERD Diagram](docs/ERD_Diagram.png)
+<img width="594" height="598" alt="schema_diagram" src="https://github.com/user-attachments/assets/6037e0fa-9453-4c51-a8f8-53108684d697" />
 
-     <img width="594" height="598" alt="schema_diagram" src="https://github.com/user-attachments/assets/e237d43d-b467-4f24-af2c-c39c9818bbd1" />
+<img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/1fb3a315-b804-4995-a3e8-cb8535fa4b15" />
+
 
 
 ## ⚙️ Tools & Technologies
@@ -31,5 +32,5 @@ The database models a digital music store with the following entities:
 - GitHub
 
 
-  <img width="710" height="574" alt="MusicDatabaseSchema" src="https://github.com/user-attachments/assets/1fb3a315-b804-4995-a3e8-cb8535fa4b15" />
+  
 
