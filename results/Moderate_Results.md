@@ -14,5 +14,5 @@ Sample results:
 **Q3. Tracks longer than average length**  
 Sample (longest 10):  
 
-<img width="626" height="450" alt="image" src="https://github.com/user-attachments/assets/b253d45a-66f4-43e4-957d-386a922360f0" />
+<img width="1200" height="450" alt="image" src="https://github.com/user-attachments/assets/b253d45a-66f4-43e4-957d-386a922360f0" />
 
