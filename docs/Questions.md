@@ -3,7 +3,7 @@
 This project explores a **digital music store database** using SQL queries in PostgreSQL.  
 The questions are categorized into three levels: **Easy, Moderate, and Advanced**.  
 
----
+
 
 ## ✅ Question Set 1 – Easy
 1. Who is the senior most employee based on job title?  
@@ -14,7 +14,7 @@ The questions are categorized into three levels: **Easy, Moderate, and Advanced*
 5. Who is the best customer?  
    > The customer who has spent the most money will be declared the best customer.  
 
----
+
 
 ## ⚡ Question Set 2 – Moderate
 1. Return the email, first name, last name, & genre of all Rock music listeners.  
@@ -24,7 +24,7 @@ The questions are categorized into three levels: **Easy, Moderate, and Advanced*
 3. Return all the track names that have a song length longer than the average song length.  
    > Return the track name and milliseconds, ordered from longest to shortest.  
 
----
+
 
 ## 🔥 Question Set 3 – Advanced
 1. Find how much amount each customer has spent on each artist.  
