@@ -1,6 +1,6 @@
 # 🔥 Advanced Results
 
-**Q1. Amount spent by each customer on artists **  
+**Q1. Amount spent by each customer on artists**  
 
 <img width="917" height="416" alt="image" src="https://github.com/user-attachments/assets/2dca4e47-ba30-4563-91e7-8e3cec492b67" />
 
