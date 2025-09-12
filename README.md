@@ -40,11 +40,7 @@ The project addresses 13 key questions, grouped by difficulty:
 👉 Full question list: [docs/Questions.md](docs/Questions.md)
 👉 SQL queries: [queries/](queries/)
 
-## 🔍 Key Insights
-- **Best Customer:** R Madhav – highest lifetime spending.  
-- **Top City:** Prague – highest total invoice sales.  
-- **Most Popular Genre:** Rock – accounts for ~30% of purchases.  
-- **Country with Highest Revenue:** USA.  
+
 
 ## 🚀 How to Run the Project
 1. Clone the repository:
