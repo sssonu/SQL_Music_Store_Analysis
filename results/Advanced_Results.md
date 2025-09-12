@@ -1,32 +1,20 @@
 # 🔥 Advanced Results
 
-**Q1. Amount spent by each customer on artists (sample)**  
+**Q1. Amount spent by each customer on artists **  
 
-| Customer         | Artist          | Total Spent |
-|------------------|-----------------|-------------|
-| Jane Peacock     | Iron Maiden     | $14.85      |
-| Frank Ralston    | Queen           | $13.86      |
-| Michelle Brooks  | U2              | $12.86      |
+<img width="917" height="416" alt="image" src="https://github.com/user-attachments/assets/2dca4e47-ba30-4563-91e7-8e3cec492b67" />
+
 
 ---
 
 **Q2. Most popular genre per country**  
 
-| Country   | Genre   | Purchases |
-|-----------|---------|-----------|
-| USA       | Rock    | 130       |
-| Canada    | Rock    | 85        |
-| Brazil    | Latin   | 42        |
-| France    | Rock    | 25        |
-| Germany   | Rock    | 21        |
+<img width="919" height="415" alt="image" src="https://github.com/user-attachments/assets/8e957068-caf0-44a7-a5e8-a24626c739d8" />
+
 
 ---
 
 **Q3. Top customer(s) per country by spending**  
 
-| Country   | Customer         | Total Spent |
-|-----------|------------------|-------------|
-| USA       | Jane Peacock     | $40.35      |
-| Canada    | Mark Philips     | $27.36      |
-| Brazil    | Roberto Almeida  | $18.86      |
-| France    | Michelle Brooks  | $15.86      |
+<img width="999" height="502" alt="image" src="https://github.com/user-attachments/assets/fe6b3682-5348-4883-9ce8-b1089fe72bea" />
+
